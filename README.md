@@ -1,3 +1,10 @@
+[![Ansible](https://img.shields.io/badge/Ansible-≥2.16-red?logo=ansible)](https://www.ansible.com/)
+[![AWS](https://img.shields.io/badge/AWS-Infrastructure-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Boto3](https://img.shields.io/badge/Python-boto3-blue?logo=python)](https://boto3.amazonaws.com/)
+[![IaC](https://img.shields.io/badge/Automation-Infrastructure%20as%20Code-623CE4?logo=terraform)](https://www.ansible.com/)
+[![Dynamic Inventory](https://img.shields.io/badge/Inventory-Dynamic%20AWS-green)](https://docs.ansible.com/ansible/latest/collections/amazon/aws/aws_ec2_inventory.html)
+[![CI](https://img.shields.io/github/actions/workflow/status/lauj0rge/ansible-aws-foundations/ci.yml?label=CI%20Build)](https://github.com/lauj0rge/ansible-aws-foundations/actions)
+
 # Ansible AWS foundations
 
 A minimal, modular Ansible project for provisioning foundational AWS infrastructure.
